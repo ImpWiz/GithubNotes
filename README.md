@@ -1,7 +1,7 @@
 # Learning Github
 
 ## YT Channels
- <HR WIDTH="80%">
+
 **YT** [GitHub Traning & Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw) <br>
 Apr 29, 2019 [GitHub Learning Lab: Getting Started with Learning Paths](https://youtu.be/9fRETGPRqWM) <br>
  In this video they show that you can get trained using _githubtraining_ and I saw something I do not understand. . . <br>
