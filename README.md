@@ -15,5 +15,5 @@ Apr 29, 2019 [GitHub Learning Lab: Getting Started with Learning Paths](https://
  <HR WIDTH="80%">
  <br>
  
- **YT** [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) <br>
+ ### **YT** [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) <br>
  
