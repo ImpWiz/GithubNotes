@@ -8,7 +8,7 @@
  <https://lab.github.com/githubtraining>
  If you use an *Organization* you can possibly see private or public courses listed under the organization.
  On the TOP TAB there is a *Learning Paths* Tab and if the organization has a learning paths created you will find them here. <br>
- <br>
+
  <p>
  I do not know any *Organizations* but Google Might . . . <br>
  <br>
