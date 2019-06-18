@@ -17,3 +17,17 @@ Apr 29, 2019 [GitHub Learning Lab: Getting Started with Learning Paths](https://
  
  ### **YT** [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) <br>
  
+## [GitHub Learning Lab](https://lab.github.com/)
+
+## [GitHub Guides](https://guides.github.com/)
+
+## [Open Source Guides](https://opensource.guide/)
+
+## **BLOG** [GitHub](https://github.com/blog/)
+
+## **BLOG** [Atom](https://blog.atom.io/)
+
+## **BLOG** [Electron](https://electron.atom.io/blog/)
+
+## **BLOG** [GitHub API](https://developer.github.com/changes/)
+
